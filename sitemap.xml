@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://enanibus.github.io/hugolb/posts/</loc>
+    <lastmod>2024-02-28T10:47:09+01:00</lastmod>
+  </url><url>
+    <loc>https://enanibus.github.io/hugolb/</loc>
+    <lastmod>2024-02-28T10:47:09+01:00</lastmod>
+  </url><url>
     <loc>https://enanibus.github.io/hugolb/categories/</loc>
   </url><url>
     <loc>https://enanibus.github.io/hugolb/tags/</loc>
-  </url><url>
-    <loc>https://enanibus.github.io/hugolb/</loc>
   </url>
 </urlset>
