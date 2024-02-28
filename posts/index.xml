@@ -11,7 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 10:47:09 +0100</lastBuildDate>
     <atom:link href="https://enanibus.github.io/hugolb/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://enanibus.github.io/hugolb/posts/first-post/</link>
+      <pubDate>Wed, 28 Feb 2024 10:47:09 +0100</pubDate>
+      <guid>https://enanibus.github.io/hugolb/posts/first-post/</guid>
+      <description>This website is a personal blog where I&amp;rsquo;d like to leave experiences and solutions to lot of technical stuff I&amp;rsquo;ve had to deal with. It will always be open to everyone and without ads.</description>
+    </item>
   </channel>
 </rss>
